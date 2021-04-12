@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08_Booksto/08_Booksto.iml" filepath="$PROJECT_DIR$/08_Booksto/08_Booksto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppleWeb/AppleWeb.iml" filepath="$PROJECT_DIR$/AppleWeb/AppleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+    </modules>
+  </component>
+</project>
