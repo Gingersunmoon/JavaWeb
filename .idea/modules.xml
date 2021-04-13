@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/08_Booksto/08_Booksto.iml" filepath="$PROJECT_DIR$/08_Booksto/08_Booksto.iml" />
       <module fileurl="file://$PROJECT_DIR$/AppleWeb/AppleWeb.iml" filepath="$PROJECT_DIR$/AppleWeb/AppleWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GITTest/GITTest.iml" filepath="$PROJECT_DIR$/GITTest/GITTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
     </modules>
   </component>
